@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name":"Cooler Master",
+    "price": 130,
+    "description": "Cooler Master MasterBox Lite 3.1 TG mATX Case",
+    "image": "/img/gabinetes/coolermaster.png",
+    "categoryId": 3
+  },
+  {
+    "id": 2,
+    "name":"Corsair",
+    "price": 150,
+    "description": "Corsair Carbide Series 100R Mid-Tower Case",
+    "image": "/img/gabinetes/CORSAIR.PNG",
+    "categoryId": 3
+  },
+  {
+    "id": 3,
+    "name":"DEEPCOOL",
+    "price": 200,
+    "description": "Deepcool matrexx 55 v3 Blanco",
+    "image": "/img/gabinetes/DEEPCOOL.PNG",
+    "categoryId": 3
+  },
+  {
+    "id": 4,
+    "name":"Asus",
+    "price": 350,
+    "description": "Asus Rog Strix x670E",
+    "image": "/img/motherboards/ASUS.PNG",
+    "categoryId": 1
+  },
+  {
+    "id": 5,
+    "name":"Gigabyte",
+    "price": 300,
+    "description": "Gigabyte Z790 GAMING X AX",
+    "image": "/img/motherboards/GIGABYTE.PNG",
+    "categoryId": 1
+  },
+  {
+    "id": 6,
+    "name":"MSI",
+    "price": 350,
+    "description": "MSI X570 MAG TOMAHAWK",
+    "image": "/img/motherboards/MSI.PNG",
+    "categoryId": 1
+  },
+  {
+    "id": 7,
+    "name":"Intel Core I9",
+    "price": 500,
+    "description": "Intel Core I9 13900k",
+    "image": "/img/procesadores/I9.PNG",
+    "categoryId": 2
+  },
+  {
+    "id": 8,
+    "name":"AMD RYZEN 7",
+    "price": 450,
+    "description": "Procesador AMD ryzen 7 7800x3d",
+    "image": "/img/procesadores/RYZEN7.PNG",
+    "categoryId": 2
+  },
+  {
+    "id": 9,
+    "name":"AMD RYZEN 9",
+    "price": 620,
+    "description": "AMD ryzen 9 7950x 16c 32t",
+    "image": "/img/procesadores/RYZEN9.PNG",
+    "categoryId": 2
+  },
+  {
+    "id": 10,
+    "name":"Asus rog strix rtx 4090",
+    "price": 1550,
+    "description": "Placa de Video Asus rog strix rtx 4090 24gb",
+    "image": "/img/placas_de_video/4090.PNG",
+    "categoryId": 4
+  }
+]

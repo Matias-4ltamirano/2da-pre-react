@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body {
+  @apply h-full;
+}
+
+body, body > div {
+  @apply h-full overflow-hidden;
+}
+
+body > div {
+  @apply flex flex-col;
+}

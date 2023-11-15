@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Placa madre",
+    "slug": "placa_madre",
+    "description": "Placa madre para procesadores Intel y AMD",
+    "image": "/img/motherboards/card.png"
+  },
+  {
+    "id": 2,
+    "name": "Procesador",
+    "slug": "procesador",
+    "description": "Procesador Intel y AMD",
+    "image": "/img/procesadores/card.png"
+  },
+  {
+    "id": 3,
+    "name": "Gabinete",
+    "slug": "gabinete",
+    "description": "Gabinete para PC",
+    "image": "/img/gabinetes/card.png"
+  },
+  {
+    "id": 4,
+    "name": "Placa de video",
+    "slug": "placa_de_video",
+    "description": "Placa de video para PC",
+    "image": "/img/placas_de_video/card.png"
+  }
+]
